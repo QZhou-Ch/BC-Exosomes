@@ -1,6 +1,5 @@
 library(Rsubread)
 library(GEOquery)
-library(refGenome)
 library(GenomicRanges)
 library(Rsamtools)
 library(doParallel)
